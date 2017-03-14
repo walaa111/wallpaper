@@ -1,0 +1,44 @@
+.buttons-row
+{
+    margin-left: 50px;
+}
+.row img
+{
+    width: 100%;
+    height: 250px;
+}
+.navbar-inner
+{
+    background-color: crimson;
+}
+.toolbar
+{
+    background-color: crimson;
+}
+.photo-browser .page[data-page="photo-browser-slides"] .toolbar, .view[data-page="photo-browser-slides"] .page[data-page="photo-browser-slides"] .toolbar {
+      background-color: crimson;
+
+}
+.button 
+{
+    background-color: white;
+    color: black !important;
+}
+.fo
+{
+    margin-bottom: 200px !important;
+}
+.framework7-root, body, html 
+{
+    height: 1000px;
+}
+.page-content {
+  overflow: hidden;
+}
+.card-content-inner {
+    padding: 10px;
+    position: relative;
+}
+.card 
+{
+}
